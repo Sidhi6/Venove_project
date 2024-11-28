@@ -10,7 +10,7 @@ class MemberLocationScreen extends StatelessWidget {
           // Hardcoded Map Image
           Positioned.fill(
             child: Image.asset(
-              'assets/static_map.png', // Replace with your map image file
+              'assets/static_map.png', 
               fit: BoxFit.cover,
             ),
           ),
