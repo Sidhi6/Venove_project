@@ -10,7 +10,7 @@ class RouteDetailsScreen extends StatelessWidget {
           // Hardcoded Map Image
           Positioned.fill(
             child: Image.asset(
-              'assets/static_route_map.png', // Replace with your route map image file
+              'assets/static_route_map.png', 
               fit: BoxFit.cover,
             ),
           ),
