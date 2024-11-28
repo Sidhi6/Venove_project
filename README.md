@@ -1,8 +1,10 @@
 Location Screen - Flutter Application
+
 This Flutter application incorporates a Location Screen that allows users to monitor and analyze the travel patterns of individual members. Designed for intuitive navigation and usability, this feature provides a comprehensive view of current locations, visited locations, and travel routes, all seamlessly integrated with Google Maps. The UI adheres to modern design principles outlined in a Figma prototype, ensuring a sleek, user-friendly experience.
 The Location Screen is a powerful tool for tracking and visualizing location data, providing users with actionable insights such as detailed travel timelines, route maps, and stop durations. This documentation outlines the functionality, features, and technical aspects of the Location Screen, serving as a guide for both developers and users.
 
 Overview
+
 The Location Screen is accessed via the Attendance Menu. It supports the following capabilities:
 	•	Displays a list of members, each with two actionable icons for location-related functionality.
 	•	Allows users to view an individual member's current location on an interactive map.
