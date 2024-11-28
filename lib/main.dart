@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'WorkStatus App',
+      title: 'Vinove_attandance',
       theme: ThemeData(primarySwatch: Colors.purple),
       home: DashboardScreen(),
     );
