@@ -87,6 +87,7 @@ How to Use
 	•	Analyze the start/stop points, total distance, duration, and stop times.
 
 Future Enhancements
+
 This feature has a strong foundation, but there are opportunities for further enhancements:
 	•	Live Route Tracking: Incorporate real-time tracking for ongoing journeys, providing live updates on member movements.
 	•	Custom Alerts: Add customizable notifications for specific events, such as stops exceeding a certain duration.
@@ -99,5 +100,6 @@ This feature has a strong foundation, but there are opportunities for further en
 
 
 Conclusion
+
 The Location Screen in this Flutter application is a versatile feature designed to simplify travel monitoring and analysis. By integrating Google Maps with an intuitive UI, it empowers users to track, review, and optimize travel data effortlessly. Whether used for workforce management, logistics, or personal tracking, this feature provides a robust solution for location-based insights.
 With its modular architecture, modern design, and powerful functionality, the Location Screen is poised to meet diverse user needs while maintaining scalability and ease of use.
