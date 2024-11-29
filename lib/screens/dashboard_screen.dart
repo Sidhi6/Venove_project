@@ -39,7 +39,7 @@ class DashboardScreen extends StatelessWidget {
                 );
               },
             ),
-            // Add more options like Activity, Timesheet, etc.
+
           ],
         ),
       ),

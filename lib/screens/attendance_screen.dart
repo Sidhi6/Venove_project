@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'member_location_screen.dart';
 import 'route_details_screen.dart';
+import 'Current_screen.dart';
 
 class AttendanceScreen extends StatelessWidget {
   @override
@@ -56,7 +57,7 @@ class AttendanceScreen extends StatelessWidget {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   IconButton(
-                    icon: Icon(Icons.location_on, color: Colors.redAccent),
+                    icon: Icon(Icons.calendar_today, color: Colors.purple),
                     onPressed: () {
                       Navigator.push(
                         context,
@@ -66,14 +67,15 @@ class AttendanceScreen extends StatelessWidget {
                       );
                     },
                   ),
-                  SizedBox(width: 8.0), // Space between icons
+                  SizedBox(width: 8.0),
                   IconButton(
-                    icon: Icon(Icons.calendar_today, color: Colors.purple),
+                    icon: Icon(Icons.location_on, color: Colors.redAccent),
                     onPressed: () {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => RouteDetailsScreen(),
+                          builder: (context) => CurrentLocationScreen(),
+
                         ),
                       );
                     },
