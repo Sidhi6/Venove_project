@@ -1,4 +1,4 @@
-Location Screen - Flutter Application
+![Untitled design (3)](https://github.com/user-attachments/assets/7effc299-1c52-4f9b-bb40-b925edc37930)Location Screen - Flutter Application
 
 This Flutter application includes a Location Screen that enables users to track and analyze the travel patterns of individual members. The feature offers an intuitive and seamless interface for visualizing real-time locations, visited locations, and travel routes, leveraging Google Maps for precise data rendering. Designed with usability in mind, it aligns with the modern UI principles outlined in the accompanying Figma prototype.
 The Location Screen serves as a powerful tool for tracking and visualizing movement data, providing users with insights like detailed travel timelines, route maps, and stop durations. It is particularly beneficial in contexts like workforce management, logistics, and field operations where tracking movement is crucial.
@@ -18,11 +18,7 @@ The Route Screen offers an in-depth analysis of travel between locations.
 These features provide actionable insights for route optimization and performance analysis.
 
 App Previews
-![Uploading Untitled design (3).png…]()
-
-
-Demonstration
-	•	Check out our …………..(Demonstration Video) to see how this website works.
+![app_preview](https://github.com/user-attachments/assets/e5586bdd-04b1-4906-a73c-e1e96280667f)
 
 Technologies Used
 
