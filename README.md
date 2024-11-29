@@ -1,4 +1,4 @@
-![Untitled design (3)](https://github.com/user-attachments/assets/7effc299-1c52-4f9b-bb40-b925edc37930)Location Screen - Flutter Application
+Location Screen - Flutter Application
 
 This Flutter application includes a Location Screen that enables users to track and analyze the travel patterns of individual members. The feature offers an intuitive and seamless interface for visualizing real-time locations, visited locations, and travel routes, leveraging Google Maps for precise data rendering. Designed with usability in mind, it aligns with the modern UI principles outlined in the accompanying Figma prototype.
 The Location Screen serves as a powerful tool for tracking and visualizing movement data, providing users with insights like detailed travel timelines, route maps, and stop durations. It is particularly beneficial in contexts like workforce management, logistics, and field operations where tracking movement is crucial.
@@ -18,6 +18,7 @@ The Route Screen offers an in-depth analysis of travel between locations.
 These features provide actionable insights for route optimization and performance analysis.
 
 App Previews
+
 ![app_preview](https://github.com/user-attachments/assets/e5586bdd-04b1-4906-a73c-e1e96280667f)
 
 Technologies Used
@@ -38,13 +39,16 @@ How to Use
 	•	View Route Details:
 	•	Select two visited locations from the timeline to view the route screen.
 	•	Analyze the start/stop points, total distance, duration, and stop times.
+ 
 Future Enhancements
+
 This feature has a strong foundation, but there are opportunities for further enhancements:
 	•	Live Tracking: Real-time updates on member movements.
 	•	Custom Alerts: Notifications for events like prolonged stops.
 	•	Data Export: Export location data as PDF or CSV for analysis.
 	•	Offline Mode: Access historical data without internet connectivity.
 	•	Enhanced Visuals: Heatmaps for popular locations and marker clustering.
+ 
 Conclusion
 
 The Location Screen in this Flutter application is a versatile feature designed to simplify travel monitoring and analysis. By integrating Google Maps with an intuitive UI, it empowers users to track, review, and optimize travel data effortlessly. Whether used for workforce management, logistics, or personal tracking, this feature provides a robust solution for location-based insights.
