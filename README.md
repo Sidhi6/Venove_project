@@ -30,15 +30,17 @@ This feature leverages the following technologies and frameworks:
 The combination of these technologies ensures a robust, performant, and visually appealing application.
 
 
-How to Use
-	•	Navigate to Attendance Menu: Launch the app and open the Attendance Menu to view the list of members.
-	•	Access Location Screen: Click on the second icon next to a member’s name to open their Location Screen.
-	•	Explore Timeline View:
-	•	View today’s travel data by default.
-	•	Use the date filter to explore historical data.
-	•	View Route Details:
-	•	Select two visited locations from the timeline to view the route screen.
-	•	Analyze the start/stop points, total distance, duration, and stop times.
+How to Use:
+
+1.Launch the app and open the Attendance Menu to view a list of members along with their attendance status.
+
+2.Click on the red pin icon next to a member's name to view their current location.
+
+3.Click on the calendar icon next to a member's name to open the Member Location screen.
+  (View a timeline of visited locations for the selected member.Each location in the timeline is marked with a connected dot.)
+  
+4.Tap on a specific visited location in the timeline to view the detailed Route Details screen.
+(Analyze: Start and Stop Locations,Total Distance Traveled and Duration of the Journey)
  
 Future Enhancements
 
